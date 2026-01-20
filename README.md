@@ -46,6 +46,6 @@ Live demo: https://sameerahmad854.github.io/React-Todo-App/
 
 ## Built With
 
-React
-Bootstrap 5
-Create React App
+1. [React](https://reactjs.org/)
+2. [Bootstrap 5](https://getbootstrap.com/)
+3. [Create React App](https://github.com/facebook/create-react-app)
